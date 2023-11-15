@@ -2,7 +2,7 @@ $myObject = [PSCustomObject]@{
     Make  = 'Ford'
     Model = 'F150'
     Color = 'Blue'
-    Year  = 2030
+    Year  = 2050
 }
 $myCar = [Vehicle]@{
     Make  = 'Chevy'
